@@ -1,2 +1,2 @@
-# ExpenseList-in-process-
-ExpenseList is a diffrent type of to do list basically thanks to CoreData framework 
+# ExpenseList
+ExpenseList is a diffrent type of todolist basically thanks to CoreData and Realm frameworks.
